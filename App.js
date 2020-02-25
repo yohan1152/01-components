@@ -4,7 +4,6 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-
       <View style={styles.container1}>
         <View style={styles.box1}>
           <Text style={styles.text}>Vista 1</Text>
